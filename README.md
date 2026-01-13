@@ -1,8 +1,5 @@
-# 你好，世界 👋
-- 📖 Focusing on sql, python, tableau and machine learning, tring to learn Java Script
-- 🍃 Lifelong learner, never stop, never give up
-- ⌚️ Time management, high efficiency seeker
-- 🥩 Meat lover
+# Hello, world 👋
+I'm just enjoying learning new things and catch up with the trend!
 
 <!---
 SimonChen0215/SimonChen0215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
